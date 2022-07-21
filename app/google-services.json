@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "756708444981",
+    "project_id": "smsapp-32451",
+    "storage_bucket": "smsapp-32451.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756708444981:android:57bfa49114d56d9b9f9a7c",
+        "android_client_info": {
+          "package_name": "com.wizelp.smsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756708444981-0ljkloqguf378176mio4eq48kf8r37nk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wizelp.smsapp",
+            "certificate_hash": "c53f7298423ec368bdb06e13199c973df6f4e601"
+          }
+        },
+        {
+          "client_id": "756708444981-g3jc87hlrdvkafvkkeq3gloopjc74of0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf8i6Cpdqfnalyl643YPWV_Ujo5TIoEmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756708444981-g3jc87hlrdvkafvkkeq3gloopjc74of0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
